@@ -8,8 +8,6 @@ Fresher
 - 🔭 Here's my [portfolio](https://jeyaraman23-portfolio.netlify.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 🕸️ Frontend Developer 
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeyaraman23/)
 - 😄 Pronouns: Techie
 - 📄 Fun fact: I love Origami.
 
@@ -21,3 +19,21 @@ Fresher
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
 
+<div align="center">
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagan6923&theme=algolia" alt="dhiyanesh-cyber"  /></p>
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jagan6923&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</div>
+
+<div align="center">
+<h3><b>Let's Get Connected! ✌️😄</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/jeyaraman23" target="_blank">
+  <img align="center" alt="Jeyaraman | Linkedin" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+<a href="mailto:jeyaraman.saravanan23@gmail.com" >
+  <img align="center" alt="Jeyaraman | Gmail" width="48px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+</a>
+</p>
